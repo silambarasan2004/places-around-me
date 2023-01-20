@@ -159,12 +159,12 @@ Thillai Nataraja Temple, also referred as the Chidambaram Nataraja Temple, is a 
 
 ## Output:
 ![output](screenshots/bank.png)
-![output](Screenshots/hospi.png)
-![output](Screenshots/hotel.png)
-![output](Screenshots/hotelmap.png)
-![output](Screenshots/htmlvalidator.png)
-![output](Screenshots/lgstores.png)
-![output](Screenshots/temp.png)
+![output](screenshots/hospi.png)
+![output](screenshots/hotel.png)
+![output](screenshots/hotelmap.png)
+![output](screenshots/htmlvalidator.png)
+![output](screenshots/lgstores.png)
+![output](screenshots/temp.png)
 
 ## Result:
 The program for implementing image map is executed successfully
