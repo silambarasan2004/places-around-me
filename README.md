@@ -158,7 +158,7 @@ Thillai Nataraja Temple, also referred as the Chidambaram Nataraja Temple, is a 
 ```
 
 ## Output:
-![output](Screenshots/bank.png)
+![output](screenshots/bank.png)
 ![output](Screenshots/hospi.png)
 ![output](Screenshots/hotel.png)
 ![output](Screenshots/hotelmap.png)
